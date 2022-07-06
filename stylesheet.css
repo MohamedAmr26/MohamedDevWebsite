@@ -149,7 +149,7 @@ header div{
 #contact nav{
     display: flex;
     justify-content: center;
-    margin-top: 70px;
+    margin-top: 40px;
     margin-left: -65px;
 }
 .iconify{color: black; transition: .4s ease;}
