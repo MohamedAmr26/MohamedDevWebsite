@@ -135,6 +135,7 @@ header div{
     font-size: 1.5em;
     line-height: 150%;
     font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
     transition: .4s ease;
 } .projectbox span{font-size: 2em; background: linear-gradient(0deg, rgba(255,102,0,1) 0%, rgba(255,83,73,1) 100%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
 .projectbox iframe, img{
